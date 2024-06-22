@@ -8,6 +8,6 @@ The project is organized as follows:
 * feature_selection.R: in this file we split the data into train and test dataset and then perform data preprocessing and feature selection.
 * resampling.R: in this file we define functions used in resampling methods.
 * cost_sensitive.R this file contains implementations of weighted logistic regression and weighted kNN model.
-* ensemble.R: in this file we define ensembles and their upgrades used im imbalanced classification. Current implementations consider only binary target.
+* ensemble.R: in this file we define ensembles and their upgrades used in imbalanced classification. Current implementations consider only binary target.
 * main.R: in this file we train and test models and write results into .xlsx file.
 * visualizations.R: in this file we create some useful visual interpretations of scenarios encountered in imbalanced classification.
