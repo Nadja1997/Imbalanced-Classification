@@ -10,3 +10,4 @@ The project is organized as follows:
 * cost_sensitive.R this file contains implementations of weighted logistic regression and weighted kNN model.
 * ensemble.R: in this file we define ensembles and their upgrades used im imbalanced classification. Current implementations consider only binary target.
 * main.R: in this file we train and test models and write results into .xlsx file.
+* visualizations.R: in this file we create some useful visual interpretations of scenarios encountered in imbalanced classification.
